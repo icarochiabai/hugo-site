@@ -1,0 +1,3 @@
+[submodule "themes/wings"]
+	path = themes/wings
+	url = git@github.com:icarochiabai/wings.git
